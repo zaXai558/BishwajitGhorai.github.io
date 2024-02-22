@@ -25,7 +25,7 @@ If you have any questions or would like to discuss collaborations, feel free to 
 
 - **Email:** bishwajitghorai14@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/bishwajit-ghorai-110566151/
-- **Portfolio Website:** https://yourportfolio.com
+- **Portfolio Website:** https://zaxai558.github.io/BishwajitGhorai.github.io/
 
 ## License
 
