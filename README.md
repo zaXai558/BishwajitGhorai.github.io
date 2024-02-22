@@ -30,4 +30,3 @@ If you have any questions or would like to discuss collaborations, feel free to 
 ## License
 
 This portfolio repository is licensed under the [MIT License](LICENSE).
-
