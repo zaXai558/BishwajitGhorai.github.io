@@ -6,8 +6,13 @@ Welcome to my portfolio repository! This repository serves as a showcase for som
 
 ### PLUM CUSTOMER SUCCESS TEAM EFFICIENCY ANALYSIS
 
-- **Description:** This repository contains raw data in Excel format, a working Excel file, and a PowerPoint presentation documenting the data analysis conducted to evaluate the efficiency and performance of the customer success team at Plum based on email metrics. The objective is to identify areas of improvement and infer additional insights from the data..
+- **Description:** This repository contains raw data in Excel format, a working Excel file, and a PowerPoint presentation documenting the data analysis conducted to evaluate the efficiency and performance of the customer success team at Plum based on email metrics. The objective is to identify areas of improvement and infer additional insights from the data.
 - **GitHub Repository:** https://github.com/zaXai558/Plum_Ticket_Analysis.git
+
+### MERCARI PRICE SUGGESTION ANALYSIS
+
+- **Description:** In this project, I tackled the challenge of predicting product prices for Mercari, Japan’s leading community-powered shopping app. With the vast array of products listed on Mercari's marketplace, accurately determining prices is essential. Leveraging exploratory data analysis (EDA) and machine learning (ML), I aimed to develop an algorithm that suggests appropriate prices based on user-provided text descriptions, including details like product category name, brand name, and item condition.
+- **GitHub Repository:** https://github.com/zaXai558/Mercari.git
 
 ### REVENUE INSIGHTS ON HOSPITALITY DOMAIN DATA
 
